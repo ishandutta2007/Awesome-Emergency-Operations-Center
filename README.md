@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License"/></a>
@@ -58,7 +58,7 @@ Last updated: **September 2026**
 
 Below is a curated list of active open-source crisis mapping, disaster management, emergency alerting, and situational awareness repositories.
 
-### 🌟 Open-Source Repositories (Sorted by Star Count Descending)
+### 🌟 Open-Source Repositories (Sorted by Stars_Count Descending)
 
 | 📦 Repository / Project | 🏷️ Description | ⭐️ Stars | 🔗 Quick Links |
 | :--- | :--- | :--- | :--- |
@@ -78,7 +78,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/Update** entries in `README.md` keeping the Markdown tabular formatting consistent.
-3. 🔍 **Provide Factual Details**: Include pricing estimates, free trial terms, company size, or open-source star badges.
+3. 🔍 **Provide Factual Details**: Include pricing estimates, free trial terms, company size, or open-source Stars_Badges.
 4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
 
 ---
