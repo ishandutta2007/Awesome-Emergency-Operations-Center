@@ -1,211 +1,109 @@
-# Awesome-Emergency-Operations-Center
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Emergency Operations Center Banner" width="100%">
+</p>
 
-## Top Emergency Operations Center (EOC) Platforms Ecosystem
+# 🚨 Awesome Emergency Operations Center (EOC)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Emergency-Operations-Center?style=flat-square" alt="GitHub Issues"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Emergency-Operations-Center/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-green.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Virtual EOCs, Incident Command, Crisis Management, Situation Reporting, Resource Tracking & Multi-Agency Coordination*
+## 🌐 Overview & Ecosystem
 
-**Last updated: September 2026**
+A curated list of top **Emergency Operations Center (EOC) software**, **Incident Command Systems (ICS)**, **Virtual EOCs**, **Disaster Management Platforms**, and **Crisis Response Tools**. Designed for emergency managers, public safety officers, enterprise resilience teams, and humanitarian responders.
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Emergency Operations Center (EOC)** and crisis management. These systems support incident command, situation reporting, resource management, multi-agency coordination, and continuity during emergencies and critical events.
-
-
-
-**Examples** include Veoci, WebEOC by Juvare, Noggin, DisasterLAN, Veoci EOC, Crisis24, Fusion Risk Management, Preparis, Everbridge, and NIMSsoft (the category leaders).
-
-
-
-**Open-source emphasis**: Commercial EOC and crisis management platforms dominate government and enterprise use. The strongest open alternative is **Sahana Eden** (and related Sahana projects) for humanitarian and emergency management. This section expands those options and is realistic about the commercial gap for full NIMS/ICS virtual EOC suites.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Veoci](https://www.veoci.com/)**  
-
-  Leading cloud-based emergency management and virtual EOC platform—configurable incident workflows, task tracking, situation reporting, and audit-ready coordination for government, healthcare, and universities.
-
-
-
-- **[WebEOC by Juvare](https://www.juvare.com/)**  
-
-  Widely deployed emergency operations center software for incident tracking, resource management, situation status, and multi-agency operational reporting.
-
-
-
-- **[Noggin](https://www.noggin.io/)**  
-
-  Integrated risk, resilience, and emergency management platform used for crisis response, continuity, and operational coordination.
-
-
-
-- **[DisasterLAN (DLAN)](https://www.disasterlan.com/)**  
-
-  Emergency management and EOC software focused on incident management, mapping, and multi-agency collaboration.
-
-
-
-- **[Crisis24](https://www.crisis24.com/)**  
-
-  Risk and crisis management capabilities including intelligence, response coordination, and operational support for organizations.
-
-
-
-- **[Fusion Risk Management](https://www.fusionrm.com/)**  
-
-  Business continuity and crisis management platform supporting risk, resilience, and emergency response programs.
-
-
-
-- **[Preparis](https://www.preparis.com/)**  
-
-  Continuity and emergency management software for planning, response, and recovery workflows.
-
-
-
-- **[Everbridge](https://www.everbridge.com/)**  
-
-  Critical event management platform with mass notification, risk intelligence, and crisis response coordination often used alongside EOC operations.
-
-
-
-- **[NIMSsoft and related NIMS/ICS-aligned tools](https://www.example.com/)**  
-
-  Solutions oriented toward National Incident Management System (NIMS) and Incident Command System (ICS) documentation and operations.
-
-
-
-- **[Additional virtual EOC and crisis platforms](https://www.example.com/)**  
-
-  Other commercial systems supporting situational awareness, resource tracking, and multi-agency emergency coordination.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Sahana Eden](https://github.com/sahana/eden)**  
-
-  Leading open-source rapid application development kit and platform for humanitarian and emergency management—organizations, resources, logistics, projects/4W, shelters, and coordination workflows.
-
-
-
-- **[Sahana SAMBRO](https://github.com/sahana/SAMBRO)**  
-
-  Sahana Alerting and Messaging Broker—open CAP-based alerting and messaging for early warning and emergency communications.
-
-
-
-- **[Sahana Foundation related projects](https://sahanafoundation.org/)**  
-
-  Broader open-source ecosystem for disaster preparedness, response, recovery, and resiliency information management.
-
-
-
-- **[Open incident command and ICS documentation helpers](https://github.com/)**  
-
-  Community templates and tools aligned with ICS/NIMS forms and incident documentation practices.
-
-
-
-- **[Ushahidi and crisis mapping open platforms](https://github.com/ushahidi)**  
-
-  Open-source crisis mapping and crowdsourced reporting platforms used in humanitarian and emergency contexts.
-
-
-
-- **[Mass notification and CAP open components](https://github.com/)**  
-
-  Open implementations related to Common Alerting Protocol (CAP) and multi-channel alerting.
-
-
-
-- **[Resource and volunteer management open modules](https://github.com/)**  
-
-  Tools for tracking assets, volunteers, and logistics that can support emergency operations.
-
-
-
-- **[Situation report and collaboration open workspaces](https://github.com/)**  
-
-  Self-hosted collaboration and status-board approaches adapted for virtual EOC use.
-
-
-
-- **[GIS and mapping open stacks for emergency ops](https://github.com/)**  
-
-  Open mapping tools (e.g., QGIS-related, Leaflet-based) used for situational awareness layers.
-
-
-
-- **[Documentation and open emergency-management playbooks](https://github.com/sahana)**  
-
-  Guides for deploying Sahana Eden and related open tools for disaster and emergency coordination.
-
-
-
-### Additional Strong Open-Source Options
-
-- Deploying **Sahana Eden** for humanitarian and emergency information management, resource tracking, and multi-organization coordination.
-
-- Using **CAP/SAMBRO-style** open alerting for early warning and message distribution.
-
-- Combining open mapping and collaboration tools for lightweight virtual EOC dashboards.
-
-- Accepting that full virtual EOC suites with NIMS/ICS compliance, multi-agency workflows, audit trails, and enterprise support still favor commercial platforms (Veoci, WebEOC, Noggin, Everbridge, etc.).
-
-- Focusing open-source efforts on cost-sensitive jurisdictions, NGOs, and transparent humanitarian response.
-
-
-
-**Frameworks for building custom systems**: Deploy Sahana Eden for core emergency information management → add CAP-based alerting → integrate open maps for situational awareness → use collaboration boards for status. Suitable for humanitarian organizations and resource-constrained agencies. Most government EOCs and large enterprises adopt commercial EOC platforms for operational reliability and compliance.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Emergency operations systems are mission-critical. Open-source deployments require rigorous testing, training, and backup procedures. This list is not emergency-management or public-safety advice.
-
-
+Last updated: **September 2026**
 
 ---
 
-**Made for emergency managers, resilience teams, and open-source humanitarian advocates.**
+## 📑 Table of Contents
 
-Let's keep response coordinated, transparent, and as open as practical.
+- [📊 SaaS & Commercial EOC Platforms](#-saas--commercial-eoc-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [❤️ Support & Sponsorship](#%EF%B8%8F-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 📊 SaaS & Commercial EOC Platforms
+
+### 💡 Sector Market Size & Market Concentration Dynamics
+> 📊 **Estimated Sector Market Size**: The global Emergency Management and Incident Response Software Market is valued at **$12.5 Billion – $15.5 Billion** (with projections reaching ~$22+ Billion by 2030 at a ~7.5% CAGR).  
+> 🏛️ **Market Structure**: The sector is **moderately to highly fragmented** with specialized regional leaders, though critical mass is consolidating around major PE-backed platforms (e.g., Thoma Bravo acquiring Everbridge for $1.8B, Five Arrows backing Juvare/WebEOC). High compliance standards (NIMS/ICS), government procurement hurdles, and multi-agency interoperability requirements prevent a single "winner-take-all" outcome, allowing specialized SaaS vendors to thrive alongside category giants.
+
+### 🏢 SaaS Products Matrix (Sorted by Estimated Company Size / Valuation Descending)
+
+| 🏢 Platform | 📝 Description | 💰 Pricing | 🎁 Free Tier / Trial Limits | 📈 Estimated Company Size / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Everbridge](https://www.everbridge.com/)** | Critical event management platform with mass notification, risk intelligence, and EOC coordination workflows. | Mass Notification starts ~$5,000/yr; mid-sized $25,000–$75,000/yr; enterprise CEM $100,000+/yr | No full software free trial; 14-day free Risk Intelligence sample trial available | **$1.8 Billion Valuation** (~$450M Annual Revenue, Acquired by Thoma Bravo) |
+| **[Crisis24](https://www.crisis24.com/)** | Global risk intelligence, crisis management, and emergency response operational software. | Custom enterprise subscription (full enterprise packages start ~$100,000+/yr) | No free software trial; sample intelligence reports and consultative demos available | **~$250M – $500M Revenue** (GardaWorld Crisis & Risk Division) |
+| **[WebEOC by Juvare](https://www.juvare.com/)** | De-facto public safety and EOC standard software for incident tracking, resource status, and operational reporting. | Starts ~$8,000–$20,000/yr for small modules; enterprise/statewide deployments $20,000–$100,000+/yr | No free tier or trial; free on-demand training courses offered via Juvare Training Center | **~$100M – $250M Revenue / PE Backed** (Five Arrows Private Equity) |
+| **[Fusion Risk Management](https://www.fusionrm.com/)** | Enterprise business continuity, operational resilience, and crisis management software on Salesforce. | Custom enterprise quotes (~$93,000/yr avg, range $7,000–$149,000+/yr + Salesforce licensing) | No free tier or self-service trial; direct sales demo required | **~$50M – $100M Revenue** (~$93k Average Annual Contract) |
+| **[Veoci](https://www.veoci.com/)** | Cloud-based virtual EOC, incident management, and task-tracking suite for government, healthcare, and higher-ed. | Custom enterprise quotes (tailored by organization headcount and module scope) | No free tier; live demonstration available upon request | **~$20M – $50M Revenue** (Private, High Growth) |
+| **[Noggin](https://www.noggin.io/)** | Integrated risk management, crisis response, and operational continuity software platform. | Custom enterprise subscription (deployments typically start at ~A$75,000/yr) | No free tier or public trial; custom product demos available upon request | **~$20M – $50M Revenue** (Global Enterprise Presence) |
+| **[Preparis](https://www.preparis.com/)** | Business continuity, emergency notification, and incident recovery platform by Mitratech. | Custom quote-based pricing depending on module scope and user count | No free tier or self-service trial; free customized demo available on request | **~$15M – $40M Revenue** (Mitratech Business Unit) |
+| **[DisasterLAN (DLAN)](https://www.disasterlan.com/)** | EOC software by Buffalo Computer Graphics focusing on mapping, incident management, and multi-agency coordination. | Custom quotes via GSA schedule/BCG packages (no per-user fees for extra personnel during response) | Evaluation free trial available upon direct contact and request to vendor | **~$10M – $25M Revenue** (Buffalo Computer Graphics) |
+| **[NIMSsoft](https://www.nimssoft.com/)** | NIMS and Incident Command System (ICS) forms automation and situational awareness tools. | Custom module / site licensing | No public free trial; contact vendor directly | **~$1M – $5M Revenue** (Niche ICS Specialist) |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Below is a curated list of active open-source crisis mapping, disaster management, emergency alerting, and situational awareness repositories.
+
+### 🌟 Open-Source Repositories (Sorted by Star Count Descending)
+
+| 📦 Repository / Project | 🏷️ Description | ⭐️ Stars | 🔗 Quick Links |
+| :--- | :--- | :--- | :--- |
+| **[Ushahidi Platform](https://github.com/ushahidi/platform)** | Open-source crisis mapping, crowdsourced incident reporting, and data visualization engine used globally during disasters. | <a href="https://github.com/ushahidi/platform/stargazers"><img src="https://img.shields.io/github/stars/ushahidi/platform?style=social&color=white" alt="Ushahidi Stars"/></a> | [GitHub Repo](https://github.com/ushahidi/platform) • [Docs](https://docs.ushahidi.com) |
+| **[Sahana Eden](https://github.com/sahana/eden)** | Leading open-source humanitarian logistics, incident management, shelter tracking, and disaster response platform. | <a href="https://github.com/sahana/eden/stargazers"><img src="https://img.shields.io/github/stars/sahana/eden?style=social&color=white" alt="Sahana Eden Stars"/></a> | [GitHub Repo](https://github.com/sahana/eden) • [Website](https://sahanafoundation.org) |
+| **[SIGIMERA](https://github.com/sigimera/sigimera-app)** | Open-source crisis early warning and disaster information management platform. | <a href="https://github.com/sigimera/sigimera-app/stargazers"><img src="https://img.shields.io/github/stars/sigimera/sigimera-app?style=social&color=white" alt="SIGIMERA Stars"/></a> | [GitHub Repo](https://github.com/sigimera/sigimera-app) |
+| **[OpenStreetMap Tasking Manager](https://github.com/HOTOSM/tasking-manager)** | Humanitarian OpenStreetMap Team (HOT) tool for collaborative disaster mapping and satellite imagery coordination. | <a href="https://github.com/HOTOSM/tasking-manager/stargazers"><img src="https://img.shields.io/github/stars/HOTOSM/tasking-manager?style=social&color=white" alt="HOTOSM Tasking Manager Stars"/></a> | [GitHub Repo](https://github.com/HOTOSM/tasking-manager) • [HOT OSM](https://www.hotosm.org) |
+| **[Sahana SAMBRO](https://github.com/sahana/SAMBRO)** | Multi-agency emergency alerting and messaging broker implementing the Common Alerting Protocol (CAP). | <a href="https://github.com/sahana/SAMBRO/stargazers"><img src="https://img.shields.io/github/stars/sahana/SAMBRO?style=social&color=white" alt="Sahana SAMBRO Stars"/></a> | [GitHub Repo](https://github.com/sahana/SAMBRO) |
+| **[InaSAFE](https://github.com/inasafe/inasafe)** | Free and open-source software that produces realistic natural hazard impact scenarios for emergency planning. | <a href="https://github.com/inasafe/inasafe/stargazers"><img src="https://img.shields.io/github/stars/inasafe/inasafe?style=social&color=white" alt="InaSAFE Stars"/></a> | [GitHub Repo](https://github.com/inasafe/inasafe) • [Website](http://inasafe.org) |
+| **[Open Disaster Management Playbooks](https://github.com/sahana/eden/wiki)** | Open deployment playbooks, NIMS/ICS form templates, and operational guides for self-hosted EOC dashboards. | <a href="https://github.com/sahana/eden/stargazers"><img src="https://img.shields.io/github/stars/sahana/eden?style=social&color=white" alt="Sahana Wiki Stars"/></a> | [Wiki & Playbooks](https://github.com/sahana/eden/wiki) |
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple guidelines:
+
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/Update** entries in `README.md` keeping the Markdown tabular formatting consistent.
+3. 🔍 **Provide Factual Details**: Include pricing estimates, free trial terms, company size, or open-source star badges.
+4. 🚀 **Submit a Pull Request** with a clear explanation of your additions.
+
+---
+
+## ❤️ Support & Sponsorship
+
+If you find this curated Emergency Operations Center ecosystem list useful for your research, agency, or deployment, please consider supporting the project!
+
+- ⭐️ **Star** this repository on GitHub to increase its visibility.
+- 🔄 **Share** it with emergency management professionals, public safety engineers, and disaster response teams.
+- ☕ **Buy Me a Coffee**: Support ongoing open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-❤️-ff69b4?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
+</a>
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational, research, and informational purposes only. Inclusion does not constitute an endorsement.
+- Emergency operations, disaster response, and life-safety systems are mission-critical. Open-source deployments require thorough vetting, backup connectivity, and operational training.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Emergency-Operations-Center&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Emergency-Operations-Center&type=date&legend=top-left)
